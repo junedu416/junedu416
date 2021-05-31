@@ -1,4 +1,5 @@
 ### Hi there 👋
+It's June here. A full-stack web developer in training. 
 
 <!--
 **junedu416/junedu416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
