@@ -1,6 +1,6 @@
 ### Hi, it's ✨ June✨  here.
 - A full-stack web developer in training. 
-- How to reach me: junedu416@gmail.com
+- Reach me via junedu416@gmail.com
 - ⚡ Feel free to leave me some feedback for my baby projects
 
 <!--
