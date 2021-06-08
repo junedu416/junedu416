@@ -1,7 +1,8 @@
 ### Hi, it's ✨ June✨  here.
-- A full-stack web developer in training. 
+- A web developer in training. 
 - Reach me via junedu416@gmail.com
 - ⚡ Feel free to leave me some feedback for my baby projects
+- I am trying to improving but slow ...
 
 <!--
 **junedu416/junedu416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
