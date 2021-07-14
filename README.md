@@ -1,7 +1,7 @@
 ### Hi, it's ✨ June✨  here.
 - A web developer in training. 
 - Reach me via junedu416@gmail.com
-- ⚡ Feel free to leave me some feedback for my baby projects
+- ⚡ Feel free to leave me your feedback
 
 <!--
 **junedu416/junedu416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
