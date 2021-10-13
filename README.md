@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on Web Development Projects
 
-<br />
-
 
 ### 🧰 Languages and Tools:
 
