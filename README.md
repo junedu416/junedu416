@@ -9,7 +9,7 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Ruby" width="26px" src="assets/ruby.png" />
+<img align="left" alt="Ruby" width="26px" src="Assets/ruby.png" />
 <img align="left" alt="HTML5" width="26px" src="Assets/html.png" />
 <img align="left" alt="CSS3" width="26px" src="Assets/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="Assets/javascript.png" />
