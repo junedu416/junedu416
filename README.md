@@ -48,7 +48,7 @@
  <br>
 
   <div align="center">
-  <h3><b>Connect With Me </b></h3>
+  <h3><b>Contact Me </b></h3>
   </div>
 <p align="center">
 <a href="mailto:junedu416@gmail.com" target="_blank">
