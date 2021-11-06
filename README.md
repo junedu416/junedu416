@@ -10,17 +10,18 @@
 ### 🧰 Languages and Tools:
 
 <img align="left" alt="Ruby" width="26px" src="Assets/ruby.png" />
+<img align="left" alt="Ruby on Rails" width="26px" src="Assets/ruby-on-rails.png" />
 <img align="left" alt="HTML5" width="26px" src="Assets/html.png" />
 <img align="left" alt="CSS3" width="26px" src="Assets/css.png" />
+<img align="left" alt="Sass" width="26px" src="Assets/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="Assets/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="Assets/sql-file.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="Assets/postgresql.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="Assets/git.png" />
 <img align="left" alt="GitHub" width="26px" src="Assets/github.png" />
 <img align="left" alt="ReactJS" width="26px" src="Assets/react.png" />
 <img align="left" alt="NodeJS" width="26px" src="Assets/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="Assets/mongodb.png" />
-
 <br />
 <br />
 
