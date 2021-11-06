@@ -19,6 +19,7 @@
 <img align="left" alt="GitHub" width="26px" src="Assets/github.png" />
 <img align="left" alt="ReactJS" width="26px" src="Assets/react.png" />
 <img align="left" alt="NodeJS" width="26px" src="Assets/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="Assets/mongodb.png" />
 
 <br />
 <br />
