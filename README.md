@@ -51,15 +51,6 @@
   <h3><b>Connect With Me </b></h3>
   </div>
 <p align="center">
-<a href="#" target="_blank">
-  <img align="center" alt="June Du | Portfolio" width="24px" src="Assets/portfolio.png" />
-</a> &nbsp;&nbsp;
-<a href="#" target="_blank">
-  <img align="center" alt="June Du | Linkedin" width="24px" src="Assets/linkedin.png" />
-</a> &nbsp;&nbsp;
-<a href="#" target="_blank">
-  <img align="center" alt="June Du | Twitter" width="26px" src="Assets/twitter.png" />
-</a> &nbsp;&nbsp;
 <a href="mailto:junedu416@gmail.com" target="_blank">
   <img align="center" alt="June Du | Gmail" width="26px" src="Assets/email.png" />
 </a> &nbsp;&nbsp;
