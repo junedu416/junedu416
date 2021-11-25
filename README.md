@@ -38,9 +38,9 @@
 
 
 <!--   GitHub stats graph -->
-<!-- ### 📈 GitHub Activity Graph:
+### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=junedu416&theme=github)
- -->
+
  <br> 
  
  <hr>
