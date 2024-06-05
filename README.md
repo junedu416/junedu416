@@ -2,7 +2,7 @@
 
 ---
 
-- 🌱 Junior full-stack software engineer
+- 🌱 Full-stack software engineer
 
 - 👯 I’m looking to collaborate on web projects
 
